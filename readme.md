@@ -1,7 +1,7 @@
-#Malware with python
+# Malware with python
 
 # Steps to Run
-'''plain text
+```plain text
 1. create new directory called randomware
 2. create multiple files in that directory
 3. git clone this repo and python3 not_ransomware.py in that directory 
